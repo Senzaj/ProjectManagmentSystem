@@ -281,6 +281,6 @@ public class SeniorsControlPanel: ControlPanel
         if (history != null)
             View.ShowHistory(history);
         else
-            View.ClearAndShowText("Task history is empty");
+            View.ShowText("Task history is empty");
     }
 }

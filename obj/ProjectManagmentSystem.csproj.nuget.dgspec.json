@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\projectU\\Repos\\Solution0\\ProjectManagmentSystem.csproj": {}
+    "D:\\projectU\\Repos\\ProjectManagmentSystem\\ProjectManagmentSystem.csproj": {}
   },
   "projects": {
-    "D:\\projectU\\Repos\\Solution0\\ProjectManagmentSystem.csproj": {
+    "D:\\projectU\\Repos\\ProjectManagmentSystem\\ProjectManagmentSystem.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\projectU\\Repos\\Solution0\\ProjectManagmentSystem.csproj",
+        "projectUniqueName": "D:\\projectU\\Repos\\ProjectManagmentSystem\\ProjectManagmentSystem.csproj",
         "projectName": "ProjectManagmentSystem",
-        "projectPath": "D:\\projectU\\Repos\\Solution0\\ProjectManagmentSystem.csproj",
+        "projectPath": "D:\\projectU\\Repos\\ProjectManagmentSystem\\ProjectManagmentSystem.csproj",
         "packagesPath": "C:\\Users\\sanam\\.nuget\\packages\\",
-        "outputPath": "D:\\projectU\\Repos\\Solution0\\obj\\",
+        "outputPath": "D:\\projectU\\Repos\\ProjectManagmentSystem\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\sanam\\AppData\\Roaming\\NuGet\\NuGet.Config",

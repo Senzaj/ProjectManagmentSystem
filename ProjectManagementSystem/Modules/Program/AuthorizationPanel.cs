@@ -20,7 +20,9 @@ public class AuthorizationPanel
 
     public void Authorization()
     {
-        while (true)
+        bool isAuthorized = false;
+        
+        while (!isAuthorized)
         {
             View.ClearAndShowText("log in to the system\n");
             
@@ -38,7 +40,7 @@ public class AuthorizationPanel
             if (employeeProfile != null)
             {
                 EnterEmployeeProfile(employeeProfile);
-                break;
+                isAuthorized = true;
             }
         }
     }
