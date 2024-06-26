@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\projectU\\Repos\\PMS\\TestTask\\ProjectManagementSystem\\ProjectManagementSystem.csproj",
+      "projectUniqueName": "D:\\projectU\\Repos\\ProjectManagmentSystem\\TestTask\\ProjectManagementSystem\\ProjectManagementSystem.csproj",
       "projectName": "ProjectManagementSystem",
-      "projectPath": "D:\\projectU\\Repos\\PMS\\TestTask\\ProjectManagementSystem\\ProjectManagementSystem.csproj",
+      "projectPath": "D:\\projectU\\Repos\\ProjectManagmentSystem\\TestTask\\ProjectManagementSystem\\ProjectManagementSystem.csproj",
       "packagesPath": "C:\\Users\\sanam\\.nuget\\packages\\",
-      "outputPath": "D:\\projectU\\Repos\\PMS\\TestTask\\ProjectManagementSystem\\obj\\",
+      "outputPath": "D:\\projectU\\Repos\\ProjectManagmentSystem\\TestTask\\ProjectManagementSystem\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\sanam\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Q9rzEp06sL6y/ir3YQtdSd2OnFQV6CZ9I+Bi8Lry8Gco0Z7UhgwOaFTk9T35aeQwudU0GlQBnMj6t85SgljWvg==",
+  "dgSpecHash": "O/4S5j7ahFmvHxG/aDoFnsg8L7Jyqs6MvaxHh/y1pwUeCCcKClo7TjeVe87JMsPOjvqHL6F+h0QG13uLI5kIOA==",
   "success": true,
-  "projectFilePath": "D:\\projectU\\Repos\\PMS\\TestTask\\ProjectManagementSystem\\ProjectManagementSystem.csproj",
+  "projectFilePath": "D:\\projectU\\Repos\\ProjectManagmentSystem\\TestTask\\ProjectManagementSystem\\ProjectManagementSystem.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
