@@ -1,5 +1,0 @@
-D:\projectU\Repos\ProjectManagmentSystem\TestTask\ProjectManagementSystem\bin\Release\net7.0\publish\ProjectManagementSystem.exe
-D:\projectU\Repos\ProjectManagmentSystem\TestTask\ProjectManagementSystem\bin\Release\net7.0\publish\ProjectManagementSystem.dll
-D:\projectU\Repos\ProjectManagmentSystem\TestTask\ProjectManagementSystem\bin\Release\net7.0\publish\ProjectManagementSystem.deps.json
-D:\projectU\Repos\ProjectManagmentSystem\TestTask\ProjectManagementSystem\bin\Release\net7.0\publish\ProjectManagementSystem.runtimeconfig.json
-D:\projectU\Repos\ProjectManagmentSystem\TestTask\ProjectManagementSystem\bin\Release\net7.0\publish\ProjectManagementSystem.pdb
